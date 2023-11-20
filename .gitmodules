@@ -1,0 +1,3 @@
+[submodule "vendor/Vosgi"]
+	path = vendor/Vosgi
+	url = https://github.com/zschzen/Vosgi.git
